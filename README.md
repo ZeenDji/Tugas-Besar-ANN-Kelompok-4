@@ -7,4 +7,4 @@ Struktur Repositori
 Cara Setup dan Run Program
 1. Clone repositori ini ke komputer lokal Anda:
    ```bash
-   git clone git clone https://github.com/ZeenDji/Tugas-Besar-ANN-Kelompok-4.git)
+   git clone git clone https://github.com/ZeenDji/Tugas-Besar-ANN-Kelompok-4.git
